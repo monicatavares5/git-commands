@@ -1,0 +1,20 @@
+## como clonar um repositorio
+
+passo a passo:
+
+'''bach
+#navegando até o diso c
+cd /c
+
+# entrada na pasta 
+mkdir minha-pasta
+
+# entrando na pasta
+cd minha-pasta
+
+# # Clonando o repositório
+git clone <link-repositorio
+
+# Acessando o repositório
+cd <path-repositorio>
+```
